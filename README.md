@@ -1,4 +1,4 @@
-# Siddhi Waghmare — Portfolio
+#  Portfolio
 
 A personal portfolio website built with plain HTML, CSS, and JavaScript —
 no frameworks, no build step. Includes a light/dark mode toggle and a
